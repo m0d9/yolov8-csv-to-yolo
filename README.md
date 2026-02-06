@@ -1,6 +1,6 @@
 # 🚀 YOLOv8 CSV-to-YOLO — Professional Training Pipeline
 
-A professional, end-to-end pipeline for training **YOLOv8** object detection models using **CSV-formatted annotations**. Supports multiple annotation formats with automatic detection, deterministic train/val splitting, model evaluation, multi-format export, and a complete repository structure ready for **GitHub** and **Hugging Face**.
+A professional, end-to-end pipeline for training **YOLOv8** object detection models using **CSV-formatted annotations**. Supports multiple annotation formats with automatic detection, deterministic train/val splitting, model evaluation, multi-format export.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-8.2-purple)
