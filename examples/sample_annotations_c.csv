@@ -1,0 +1,6 @@
+filename,x_center,y_center,width,height,class,normalized
+img001.jpg,0.3125,0.2604,0.3125,0.3125,cat,true
+img001.jpg,0.7422,0.4688,0.2344,0.5208,dog,true
+img002.jpg,0.1953,0.2396,0.2344,0.2708,cat,true
+img002.jpg,0.5078,0.4375,0.2344,0.3750,dog,true
+img003.jpg,0.1250,0.1667,0.2188,0.2917,cat,true

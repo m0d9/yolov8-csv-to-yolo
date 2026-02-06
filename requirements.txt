@@ -1,0 +1,10 @@
+ultralytics==8.2.103
+opencv-python-headless==4.10.0.84
+pandas==2.2.2
+pyyaml==6.0.2
+matplotlib==3.9.2
+Pillow==10.4.0
+tqdm==4.66.5
+seaborn==0.13.2
+onnx==1.16.2
+onnxruntime==1.19.2

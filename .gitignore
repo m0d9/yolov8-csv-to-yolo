@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.eggs/
+
+# Virtual environments
+venv/
+env/
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data & Models (large files — use Git LFS or exclude)
+*.pt
+*.onnx
+*.torchscript
+*.tflite
+*.engine
+
+# Dataset (user data)
+data/
+dataset/
+
+# Training runs
+runs/
+wandb/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs
+*.log

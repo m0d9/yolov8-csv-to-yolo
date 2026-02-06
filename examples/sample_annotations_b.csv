@@ -1,0 +1,6 @@
+filename,xmin,ymin,width,height,class
+img001.jpg,100,50,200,150,cat
+img001.jpg,400,100,150,250,dog
+img002.jpg,50,50,150,130,cat
+img002.jpg,250,120,150,180,dog
+img003.jpg,10,10,140,140,cat
