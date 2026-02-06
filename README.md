@@ -317,7 +317,7 @@ This project is licensed under the **MIT License**. See the [`LICENSE`](LICENSE)
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) — State-of-the-art object detection framework
 - [YOLO Documentation](https://docs.ultralytics.com/) — Comprehensive guides and API reference
